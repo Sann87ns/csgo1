@@ -1,0 +1,19 @@
+main {
+    padding: 50px;
+    background-color: #ffffff;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 66px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #fcfcfc;
+  }
+  
+  p {
+    font-size: 26px;
+    line-height: 1.5;
+    color: #ffffff;
+  }
+  
